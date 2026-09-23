@@ -12,7 +12,9 @@ Swiping forward carves a wave into the current page through which the next page 
 back pours the previous page in from the leading edge. Pages are clipped in place, never moved, so
 the effect works with any content.
 
-<!-- Demo GIF: <p align="center"><img src="docs/demo.gif" width="320" alt="LiquidPage demo"></p> -->
+<p align="center">
+  <img src="resources/LiquidPagerDemo.gif" width="300" alt="LiquidPage demo">
+</p>
 
 - Pure Compose in common code: no Android views, no UIKit, no resources.
 - Cuberto's look by default, with a "next" button on a resting bulge, or a `Plain` preset.
